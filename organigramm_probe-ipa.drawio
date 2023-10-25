@@ -1,15 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2023-10-23T12:29:21.828Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="lQ7znwXfjeyu2mr0eexK" version="22.0.6" type="device">
+<mxfile host="app.diagrams.net" modified="2023-10-25T07:05:03.275Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="5VNJ26ZoSygJi3EaHSPH" version="22.0.7" type="device">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="2261" dy="1919" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3341" dy="2051" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="Orgchart" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
-          <mxGeometry x="-560" y="-1120" width="1120" height="820" as="geometry" />
+        <mxCell id="UNvry_7SzPGJ6amcTapv-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1390" y="-1050" width="1120" height="820" as="geometry" />
+        </mxCell>
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="Projektaufbauorganisation" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;fillColor=default;fillStyle=auto;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-1390" y="-1050" width="1120" height="820" as="geometry" />
         </mxCell>
         <UserObject label="Mia Rascher&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;Projektleiterin&lt;/i&gt;&lt;/font&gt;" name="Tessa Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" id="dNxyNK7c78bLwvsdeMH5-12">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="490" y="270" width="180" height="70" as="geometry" />
+            <mxGeometry x="470" y="275" width="180" height="70" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-15" value="" style="endArrow=none;endFill=0;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="eKP1WTHbcVCKSE6-eQRF-4" edge="1">
@@ -18,53 +21,53 @@
         <mxCell id="dNxyNK7c78bLwvsdeMH5-17" value="" style="endArrow=none;endFill=0;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="eKP1WTHbcVCKSE6-eQRF-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="700" y="560" />
+              <mxPoint x="680" y="565" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="eKP1WTHbcVCKSE6-eQRF-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="eKP1WTHbcVCKSE6-eQRF-2" target="eKP1WTHbcVCKSE6-eQRF-7">
+        <mxCell id="eKP1WTHbcVCKSE6-eQRF-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="eKP1WTHbcVCKSE6-eQRF-2" target="eKP1WTHbcVCKSE6-eQRF-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="Sandro Bürki&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;Verantwortliche Fachkraft&lt;/i&gt;&lt;/font&gt;" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" id="eKP1WTHbcVCKSE6-eQRF-2">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="260" y="410" width="180" height="80" as="geometry" />
+        <UserObject label="Roman Babenko&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;Verantwortliche Fachkraft&lt;/i&gt;&lt;/font&gt;" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" id="eKP1WTHbcVCKSE6-eQRF-2">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+            <mxGeometry x="240" y="415" width="180" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="eKP1WTHbcVCKSE6-eQRF-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="eKP1WTHbcVCKSE6-eQRF-3" target="dNxyNK7c78bLwvsdeMH5-12">
+        <mxCell id="eKP1WTHbcVCKSE6-eQRF-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="eKP1WTHbcVCKSE6-eQRF-3" target="dNxyNK7c78bLwvsdeMH5-12" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="580" y="489.9999999999998" as="targetPoint" />
+            <mxPoint x="560" y="494.9999999999998" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="350" y="560" />
-              <mxPoint x="580" y="560" />
+              <mxPoint x="330" y="565" />
+              <mxPoint x="560" y="565" />
             </Array>
           </mxGeometry>
         </mxCell>
         <UserObject label="Mia Rascher&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;Testerin&lt;br&gt;&lt;/i&gt;&lt;/font&gt;" name="Tessa Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" id="eKP1WTHbcVCKSE6-eQRF-3">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="260" y="640" width="180" height="70" as="geometry" />
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+            <mxGeometry x="240" y="645" width="180" height="70" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Mia Rascher&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;Entwicklerin&lt;/i&gt;&lt;/font&gt;" name="Tessa Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" id="eKP1WTHbcVCKSE6-eQRF-4">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="490" y="640" width="180" height="70" as="geometry" />
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+            <mxGeometry x="470" y="645" width="180" height="70" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Mia Rascher&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;Design&lt;/i&gt;&lt;/font&gt;" name="Tessa Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" id="eKP1WTHbcVCKSE6-eQRF-5">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="720" y="640" width="180" height="70" as="geometry" />
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+            <mxGeometry x="700" y="645" width="180" height="70" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Sandro Bürki&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;Experte&lt;/i&gt;&lt;/font&gt;" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" id="eKP1WTHbcVCKSE6-eQRF-7">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="720" y="410" width="180" height="80" as="geometry" />
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+            <mxGeometry x="700" y="415" width="180" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="eKP1WTHbcVCKSE6-eQRF-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="eKP1WTHbcVCKSE6-eQRF-9" target="dNxyNK7c78bLwvsdeMH5-12">
+        <mxCell id="eKP1WTHbcVCKSE6-eQRF-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="eKP1WTHbcVCKSE6-eQRF-9" target="dNxyNK7c78bLwvsdeMH5-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="Who?&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;Auftraggeber&lt;/i&gt;&lt;/font&gt;" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" id="eKP1WTHbcVCKSE6-eQRF-9">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="490" y="100" width="180" height="80" as="geometry" />
+        <UserObject label="Generali Schweiz AG&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;Auftraggeber&lt;/i&gt;&lt;/font&gt;" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" id="eKP1WTHbcVCKSE6-eQRF-9">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+            <mxGeometry x="470" y="105" width="180" height="80" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
